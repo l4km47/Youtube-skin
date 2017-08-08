@@ -9,4 +9,4 @@
 	/// Uploaded by me : Saturday July ,22 ,2017
     /// Developed : Me     /// HF Account : https://hackforums.net/member.php?action=profile&uid=3636679
     
-    ![Alt text](/Youtube-skin/blob/master/Capture.PNG?raw=true "Optional Title")
+    ![Alt text](/Youtube-skin/master/Capture.PNG?raw=true "")
