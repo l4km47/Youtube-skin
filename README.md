@@ -9,4 +9,4 @@
 	/// Uploaded by me : Saturday July ,22 ,2017
     /// Developed : Me     /// HF Account : https://hackforums.net/member.php?action=profile&uid=3636679
     
-    ![Alt text](https://github.com/lakmallz/Youtube-skin/blob/master/Capture.PNG?raw=true)
+[![solarized dualmode](https://github.com/lakmallz/Youtube-skin/blob/master/Capture.PNG)](#features)
